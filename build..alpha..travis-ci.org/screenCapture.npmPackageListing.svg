@@ -1,159 +1,159 @@
 <svg height="2494" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2494" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 00:51:49 +0000 91314846 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 00:51:49 +0000     1863 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 00:51:49 +0000     4798 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 00:51:49 +0000     4918 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 00:51:49 +0000     3390 bytes  bin/binaries.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 00:51:49 +0000 14538348 bytes  bin/enclose-v0.12.15-linux-x64-c225585</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 00:51:49 +0000 13781644 bytes  bin/enclose-v0.12.15-linux-x86-c225585</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 00:51:49 +0000 16922184 bytes  bin/enclose-v4.4.7-linux-x64-c225585</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 00:51:49 +0000 15809540 bytes  bin/enclose-v4.4.7-linux-x86-c225585</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 00:51:49 +0000  5413455 bytes  bin/enclose-v6.3.1-linux-x64-c225585</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 00:51:49 +0000 24183276 bytes  bin/enclose-v6.3.1-linux-x86-c225585</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 00:51:49 +0000     5782 bytes  bin/enclose.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 00:51:49 +0000      135 bytes  examples/01-cli/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 00:51:49 +0000      101 bytes  examples/02-cli-via-js/compile.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 00:51:49 +0000      112 bytes  examples/02-cli-via-js/index.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 00:51:49 +0000      101 bytes  examples/03-require/compile.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 00:51:49 +0000      228 bytes  examples/03-require/index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 00:51:49 +0000       62 bytes  examples/03-require/submodule.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 00:51:49 +0000      166 bytes  examples/04-verbose/compile.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 00:51:49 +0000      228 bytes  examples/04-verbose/index.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 00:51:49 +0000       62 bytes  examples/04-verbose/submodule.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 00:51:49 +0000      101 bytes  examples/05-http-server/compile.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 00:51:49 +0000      284 bytes  examples/05-http-server/index.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 00:51:49 +0000     1749 bytes  examples/06-http-server-w-assets/assets/files/ba\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 00:53:39 +0000 95491718 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 00:53:39 +0000     1863 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 00:53:39 +0000     4798 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 00:53:39 +0000     4918 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 00:53:39 +0000     3390 bytes  bin/binaries.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 00:53:39 +0000 14538348 bytes  bin/enclose-v0.12.15-linux-x64-c225585</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 00:53:39 +0000 13781644 bytes  bin/enclose-v0.12.15-linux-x86-c225585</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 00:53:39 +0000 16922184 bytes  bin/enclose-v4.4.7-linux-x64-c225585</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 00:53:39 +0000 15809540 bytes  bin/enclose-v4.4.7-linux-x86-c225585</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 00:53:39 +0000  9590327 bytes  bin/enclose-v6.3.1-linux-x64-c225585</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 00:53:39 +0000 24183276 bytes  bin/enclose-v6.3.1-linux-x86-c225585</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 00:53:39 +0000     5782 bytes  bin/enclose.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 00:53:39 +0000      135 bytes  examples/01-cli/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 00:53:39 +0000      101 bytes  examples/02-cli-via-js/compile.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 00:53:39 +0000      112 bytes  examples/02-cli-via-js/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 00:53:39 +0000      101 bytes  examples/03-require/compile.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 00:53:39 +0000      228 bytes  examples/03-require/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 00:53:39 +0000       62 bytes  examples/03-require/submodule.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 00:53:39 +0000      166 bytes  examples/04-verbose/compile.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 00:53:39 +0000      228 bytes  examples/04-verbose/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 00:53:39 +0000       62 bytes  examples/04-verbose/submodule.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 00:53:39 +0000      101 bytes  examples/05-http-server/compile.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 00:53:39 +0000      284 bytes  examples/05-http-server/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 00:53:39 +0000     1749 bytes  examples/06-http-server-w-assets/assets/files/ba\</tspan>
 <tspan x="10" y="410">dge-samples.png</tspan>
-<tspan x="10" y="426"> 24.  2017-04-19 00:51:49 +0000     1511 bytes  examples/06-http-server-w-assets/assets/files/ba\</tspan>
+<tspan x="10" y="426"> 24.  2017-04-19 00:53:39 +0000     1511 bytes  examples/06-http-server-w-assets/assets/files/ba\</tspan>
 <tspan x="10" y="442">dgebuilder.css</tspan>
-<tspan x="10" y="458"> 25.  2017-04-19 00:51:49 +0000    18535 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="458"> 25.  2017-04-19 00:53:39 +0000    18535 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="474">ass-header-3d.jpg</tspan>
-<tspan x="10" y="490"> 26.  2017-04-19 00:51:49 +0000    24978 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="490"> 26.  2017-04-19 00:53:39 +0000    24978 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="506">ass-header-connectivity.jpg</tspan>
-<tspan x="10" y="522"> 27.  2017-04-19 00:51:49 +0000    17494 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="522"> 27.  2017-04-19 00:53:39 +0000    17494 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="538">ass-header-css3.jpg</tspan>
-<tspan x="10" y="554"> 28.  2017-04-19 00:51:49 +0000    31116 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="554"> 28.  2017-04-19 00:53:39 +0000    31116 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="570">ass-header-device.jpg</tspan>
-<tspan x="10" y="586"> 29.  2017-04-19 00:51:49 +0000    16391 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="586"> 29.  2017-04-19 00:53:39 +0000    16391 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="602">ass-header-multimedia.jpg</tspan>
-<tspan x="10" y="618"> 30.  2017-04-19 00:51:49 +0000    22116 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="618"> 30.  2017-04-19 00:53:39 +0000    22116 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="634">ass-header-offline.jpg</tspan>
-<tspan x="10" y="650"> 31.  2017-04-19 00:51:49 +0000    26584 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="650"> 31.  2017-04-19 00:53:39 +0000    26584 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="666">ass-header-performance.jpg</tspan>
-<tspan x="10" y="682"> 32.  2017-04-19 00:51:49 +0000    25743 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
+<tspan x="10" y="682"> 32.  2017-04-19 00:53:39 +0000    25743 bytes  examples/06-http-server-w-assets/assets/files/cl\</tspan>
 <tspan x="10" y="698">ass-header-semantics.jpg</tspan>
-<tspan x="10" y="714"> 33.  2017-04-19 00:51:49 +0000    16771 bytes  examples/06-http-server-w-assets/assets/files/de\</tspan>
+<tspan x="10" y="714"> 33.  2017-04-19 00:53:39 +0000    16771 bytes  examples/06-http-server-w-assets/assets/files/de\</tspan>
 <tspan x="10" y="730">fault.css</tspan>
-<tspan x="10" y="746"> 34.  2017-04-19 00:51:49 +0000    14676 bytes  examples/06-http-server-w-assets/assets/files/fo\</tspan>
+<tspan x="10" y="746"> 34.  2017-04-19 00:53:39 +0000    14676 bytes  examples/06-http-server-w-assets/assets/files/fo\</tspan>
 <tspan x="10" y="762">nts/League_Gothic-webfont.woff</tspan>
-<tspan x="10" y="778"> 35.  2017-04-19 00:51:49 +0000    32772 bytes  examples/06-http-server-w-assets/assets/files/fo\</tspan>
+<tspan x="10" y="778"> 35.  2017-04-19 00:53:39 +0000    32772 bytes  examples/06-http-server-w-assets/assets/files/fo\</tspan>
 <tspan x="10" y="794">nts/calluna-regular-webfont.woff</tspan>
-<tspan x="10" y="810"> 36.  2017-04-19 00:51:49 +0000     6280 bytes  examples/06-http-server-w-assets/assets/files/ht\</tspan>
+<tspan x="10" y="810"> 36.  2017-04-19 00:53:39 +0000     6280 bytes  examples/06-http-server-w-assets/assets/files/ht\</tspan>
 <tspan x="10" y="826">ml5-display.png</tspan>
-<tspan x="10" y="842"> 37.  2017-04-19 00:51:49 +0000    27027 bytes  examples/06-http-server-w-assets/assets/files/ht\</tspan>
+<tspan x="10" y="842"> 37.  2017-04-19 00:53:39 +0000    27027 bytes  examples/06-http-server-w-assets/assets/files/ht\</tspan>
 <tspan x="10" y="858">ml5-topper.png</tspan>
-<tspan x="10" y="874"> 38.  2017-04-19 00:51:49 +0000     1034 bytes  examples/06-http-server-w-assets/assets/files/lo\</tspan>
+<tspan x="10" y="874"> 38.  2017-04-19 00:53:39 +0000     1034 bytes  examples/06-http-server-w-assets/assets/files/lo\</tspan>
 <tspan x="10" y="890">go-aside-orange.png</tspan>
-<tspan x="10" y="906"> 39.  2017-04-19 00:51:49 +0000    35934 bytes  examples/06-http-server-w-assets/assets/files/mo\</tspan>
+<tspan x="10" y="906"> 39.  2017-04-19 00:53:39 +0000    35934 bytes  examples/06-http-server-w-assets/assets/files/mo\</tspan>
 <tspan x="10" y="922">dernizr.js</tspan>
-<tspan x="10" y="938"> 40.  2017-04-19 00:51:49 +0000     4477 bytes  examples/06-http-server-w-assets/assets/index.ht\</tspan>
+<tspan x="10" y="938"> 40.  2017-04-19 00:53:39 +0000     4477 bytes  examples/06-http-server-w-assets/assets/index.ht\</tspan>
 <tspan x="10" y="954">ml</tspan>
-<tspan x="10" y="970"> 41.  2017-04-19 00:51:49 +0000      171 bytes  examples/06-http-server-w-assets/compile.js</tspan>
-<tspan x="10" y="986"> 42.  2017-04-19 00:51:49 +0000       63 bytes  examples/06-http-server-w-assets/config.js</tspan>
-<tspan x="10" y="1002"> 43.  2017-04-19 00:51:49 +0000     1188 bytes  examples/06-http-server-w-assets/index.js</tspan>
-<tspan x="10" y="1018"> 44.  2017-04-19 00:51:49 +0000      171 bytes  examples/07-scripts/compile.js</tspan>
-<tspan x="10" y="1034"> 45.  2017-04-19 00:51:49 +0000       63 bytes  examples/07-scripts/config.js</tspan>
-<tspan x="10" y="1050"> 46.  2017-04-19 00:51:49 +0000      156 bytes  examples/07-scripts/index.js</tspan>
-<tspan x="10" y="1066"> 47.  2017-04-19 00:51:49 +0000       54 bytes  examples/07-scripts/views/profile.js</tspan>
-<tspan x="10" y="1082"> 48.  2017-04-19 00:51:49 +0000      480 bytes  examples/20-eslint/compile.js</tspan>
-<tspan x="10" y="1098"> 49.  2017-04-19 00:51:49 +0000       69 bytes  examples/20-eslint/index.js</tspan>
-<tspan x="10" y="1114"> 50.  2017-04-19 00:51:49 +0000       42 bytes  examples/20-eslint/package.json</tspan>
-<tspan x="10" y="1130"> 51.  2017-04-19 00:51:49 +0000      492 bytes  examples/21-browserify/compile.js</tspan>
-<tspan x="10" y="1146"> 52.  2017-04-19 00:51:49 +0000       70 bytes  examples/21-browserify/index.js</tspan>
-<tspan x="10" y="1162"> 53.  2017-04-19 00:51:49 +0000       47 bytes  examples/21-browserify/package.json</tspan>
-<tspan x="10" y="1178"> 54.  2017-04-19 00:51:49 +0000      471 bytes  examples/22-npm/compile.js</tspan>
-<tspan x="10" y="1194"> 55.  2017-04-19 00:51:49 +0000       67 bytes  examples/22-npm/index.js</tspan>
-<tspan x="10" y="1210"> 56.  2017-04-19 00:51:49 +0000       39 bytes  examples/22-npm/package.json</tspan>
-<tspan x="10" y="1226"> 57.  2017-04-19 00:51:49 +0000      344 bytes  examples/23-thrust/compile.js</tspan>
-<tspan x="10" y="1242"> 58.  2017-04-19 00:51:49 +0000      454 bytes  examples/23-thrust/index.js</tspan>
-<tspan x="10" y="1258"> 59.  2017-04-19 00:51:49 +0000       52 bytes  examples/23-thrust/package.json</tspan>
-<tspan x="10" y="1274"> 60.  2017-04-19 00:51:49 +0000      342 bytes  examples/24-serialport/compile.js</tspan>
-<tspan x="10" y="1290"> 61.  2017-04-19 00:51:49 +0000      682 bytes  examples/24-serialport/index.js</tspan>
-<tspan x="10" y="1306"> 62.  2017-04-19 00:51:49 +0000       42 bytes  examples/24-serialport/package.json</tspan>
-<tspan x="10" y="1322"> 63.  2017-04-19 00:51:49 +0000      334 bytes  examples/25-oracle/compile.js</tspan>
-<tspan x="10" y="1338"> 64.  2017-04-19 00:51:49 +0000      522 bytes  examples/25-oracle/index.js</tspan>
-<tspan x="10" y="1354"> 65.  2017-04-19 00:51:49 +0000       92 bytes  examples/25-oracle/package.json</tspan>
-<tspan x="10" y="1370"> 66.  2017-04-19 00:51:49 +0000     2149 bytes  examples/26-sails/Gruntfile.js</tspan>
-<tspan x="10" y="1386"> 67.  2017-04-19 00:51:49 +0000       52 bytes  examples/26-sails/README.md</tspan>
-<tspan x="10" y="1402"> 68.  2017-04-19 00:51:49 +0000      685 bytes  examples/26-sails/api/policies/sessionAuth.js</tspan>
-<tspan x="10" y="1418"> 69.  2017-04-19 00:51:49 +0000     1779 bytes  examples/26-sails/api/responses/badRequest.js</tspan>
-<tspan x="10" y="1434"> 70.  2017-04-19 00:51:49 +0000     2338 bytes  examples/26-sails/api/responses/forbidden.js</tspan>
-<tspan x="10" y="1450"> 71.  2017-04-19 00:51:49 +0000     2499 bytes  examples/26-sails/api/responses/notFound.js</tspan>
-<tspan x="10" y="1466"> 72.  2017-04-19 00:51:49 +0000     1289 bytes  examples/26-sails/api/responses/ok.js</tspan>
-<tspan x="10" y="1482"> 73.  2017-04-19 00:51:49 +0000     2445 bytes  examples/26-sails/api/responses/serverError.js</tspan>
-<tspan x="10" y="1498"> 74.  2017-04-19 00:51:49 +0000     1817 bytes  examples/26-sails/app.js</tspan>
-<tspan x="10" y="1514"> 75.  2017-04-19 00:51:49 +0000      920 bytes  examples/26-sails/assets/favicon.ico</tspan>
-<tspan x="10" y="1530"> 76.  2017-04-19 00:51:49 +0000   120238 bytes  examples/26-sails/assets/js/dependencies/sails.i\</tspan>
+<tspan x="10" y="970"> 41.  2017-04-19 00:53:39 +0000      171 bytes  examples/06-http-server-w-assets/compile.js</tspan>
+<tspan x="10" y="986"> 42.  2017-04-19 00:53:39 +0000       63 bytes  examples/06-http-server-w-assets/config.js</tspan>
+<tspan x="10" y="1002"> 43.  2017-04-19 00:53:39 +0000     1188 bytes  examples/06-http-server-w-assets/index.js</tspan>
+<tspan x="10" y="1018"> 44.  2017-04-19 00:53:39 +0000      171 bytes  examples/07-scripts/compile.js</tspan>
+<tspan x="10" y="1034"> 45.  2017-04-19 00:53:39 +0000       63 bytes  examples/07-scripts/config.js</tspan>
+<tspan x="10" y="1050"> 46.  2017-04-19 00:53:39 +0000      156 bytes  examples/07-scripts/index.js</tspan>
+<tspan x="10" y="1066"> 47.  2017-04-19 00:53:39 +0000       54 bytes  examples/07-scripts/views/profile.js</tspan>
+<tspan x="10" y="1082"> 48.  2017-04-19 00:53:39 +0000      480 bytes  examples/20-eslint/compile.js</tspan>
+<tspan x="10" y="1098"> 49.  2017-04-19 00:53:39 +0000       69 bytes  examples/20-eslint/index.js</tspan>
+<tspan x="10" y="1114"> 50.  2017-04-19 00:53:39 +0000       42 bytes  examples/20-eslint/package.json</tspan>
+<tspan x="10" y="1130"> 51.  2017-04-19 00:53:39 +0000      492 bytes  examples/21-browserify/compile.js</tspan>
+<tspan x="10" y="1146"> 52.  2017-04-19 00:53:39 +0000       70 bytes  examples/21-browserify/index.js</tspan>
+<tspan x="10" y="1162"> 53.  2017-04-19 00:53:39 +0000       47 bytes  examples/21-browserify/package.json</tspan>
+<tspan x="10" y="1178"> 54.  2017-04-19 00:53:39 +0000      471 bytes  examples/22-npm/compile.js</tspan>
+<tspan x="10" y="1194"> 55.  2017-04-19 00:53:39 +0000       67 bytes  examples/22-npm/index.js</tspan>
+<tspan x="10" y="1210"> 56.  2017-04-19 00:53:39 +0000       39 bytes  examples/22-npm/package.json</tspan>
+<tspan x="10" y="1226"> 57.  2017-04-19 00:53:39 +0000      344 bytes  examples/23-thrust/compile.js</tspan>
+<tspan x="10" y="1242"> 58.  2017-04-19 00:53:39 +0000      454 bytes  examples/23-thrust/index.js</tspan>
+<tspan x="10" y="1258"> 59.  2017-04-19 00:53:39 +0000       52 bytes  examples/23-thrust/package.json</tspan>
+<tspan x="10" y="1274"> 60.  2017-04-19 00:53:39 +0000      342 bytes  examples/24-serialport/compile.js</tspan>
+<tspan x="10" y="1290"> 61.  2017-04-19 00:53:39 +0000      682 bytes  examples/24-serialport/index.js</tspan>
+<tspan x="10" y="1306"> 62.  2017-04-19 00:53:39 +0000       42 bytes  examples/24-serialport/package.json</tspan>
+<tspan x="10" y="1322"> 63.  2017-04-19 00:53:39 +0000      334 bytes  examples/25-oracle/compile.js</tspan>
+<tspan x="10" y="1338"> 64.  2017-04-19 00:53:39 +0000      522 bytes  examples/25-oracle/index.js</tspan>
+<tspan x="10" y="1354"> 65.  2017-04-19 00:53:39 +0000       92 bytes  examples/25-oracle/package.json</tspan>
+<tspan x="10" y="1370"> 66.  2017-04-19 00:53:39 +0000     2149 bytes  examples/26-sails/Gruntfile.js</tspan>
+<tspan x="10" y="1386"> 67.  2017-04-19 00:53:39 +0000       52 bytes  examples/26-sails/README.md</tspan>
+<tspan x="10" y="1402"> 68.  2017-04-19 00:53:39 +0000      685 bytes  examples/26-sails/api/policies/sessionAuth.js</tspan>
+<tspan x="10" y="1418"> 69.  2017-04-19 00:53:39 +0000     1779 bytes  examples/26-sails/api/responses/badRequest.js</tspan>
+<tspan x="10" y="1434"> 70.  2017-04-19 00:53:39 +0000     2338 bytes  examples/26-sails/api/responses/forbidden.js</tspan>
+<tspan x="10" y="1450"> 71.  2017-04-19 00:53:39 +0000     2499 bytes  examples/26-sails/api/responses/notFound.js</tspan>
+<tspan x="10" y="1466"> 72.  2017-04-19 00:53:39 +0000     1289 bytes  examples/26-sails/api/responses/ok.js</tspan>
+<tspan x="10" y="1482"> 73.  2017-04-19 00:53:39 +0000     2445 bytes  examples/26-sails/api/responses/serverError.js</tspan>
+<tspan x="10" y="1498"> 74.  2017-04-19 00:53:39 +0000     1817 bytes  examples/26-sails/app.js</tspan>
+<tspan x="10" y="1514"> 75.  2017-04-19 00:53:39 +0000      920 bytes  examples/26-sails/assets/favicon.ico</tspan>
+<tspan x="10" y="1530"> 76.  2017-04-19 00:53:39 +0000   120238 bytes  examples/26-sails/assets/js/dependencies/sails.i\</tspan>
 <tspan x="10" y="1546">o.js</tspan>
-<tspan x="10" y="1562"> 77.  2017-04-19 00:51:49 +0000      276 bytes  examples/26-sails/assets/robots.txt</tspan>
-<tspan x="10" y="1578"> 78.  2017-04-19 00:51:49 +0000      874 bytes  examples/26-sails/assets/styles/importer.less</tspan>
-<tspan x="10" y="1594"> 79.  2017-04-19 00:51:49 +0000     1905 bytes  examples/26-sails/compile.js</tspan>
-<tspan x="10" y="1610"> 80.  2017-04-19 00:51:49 +0000     9197 bytes  examples/26-sails/config/blueprints.js</tspan>
-<tspan x="10" y="1626"> 81.  2017-04-19 00:51:49 +0000      627 bytes  examples/26-sails/config/bootstrap.js</tspan>
-<tspan x="10" y="1642"> 82.  2017-04-19 00:51:49 +0000     4706 bytes  examples/26-sails/config/connections.js</tspan>
-<tspan x="10" y="1658"> 83.  2017-04-19 00:51:49 +0000     3614 bytes  examples/26-sails/config/cors.js</tspan>
-<tspan x="10" y="1674"> 84.  2017-04-19 00:51:49 +0000     2989 bytes  examples/26-sails/config/csrf.js</tspan>
-<tspan x="10" y="1690"> 85.  2017-04-19 00:51:49 +0000      830 bytes  examples/26-sails/config/env/development.js</tspan>
-<tspan x="10" y="1706"> 86.  2017-04-19 00:51:49 +0000     1371 bytes  examples/26-sails/config/env/production.js</tspan>
-<tspan x="10" y="1722"> 87.  2017-04-19 00:51:49 +0000     3302 bytes  examples/26-sails/config/globals.js</tspan>
-<tspan x="10" y="1738"> 88.  2017-04-19 00:51:49 +0000     3883 bytes  examples/26-sails/config/http.js</tspan>
-<tspan x="10" y="1754"> 89.  2017-04-19 00:51:49 +0000     2644 bytes  examples/26-sails/config/i18n.js</tspan>
-<tspan x="10" y="1770"> 90.  2017-04-19 00:51:49 +0000     1181 bytes  examples/26-sails/config/locales/_README.md</tspan>
-<tspan x="10" y="1786"> 91.  2017-04-19 00:51:49 +0000       70 bytes  examples/26-sails/config/locales/de.json</tspan>
-<tspan x="10" y="1802"> 92.  2017-04-19 00:51:49 +0000       67 bytes  examples/26-sails/config/locales/en.json</tspan>
-<tspan x="10" y="1818"> 93.  2017-04-19 00:51:49 +0000       90 bytes  examples/26-sails/config/locales/es.json</tspan>
-<tspan x="10" y="1834"> 94.  2017-04-19 00:51:49 +0000       84 bytes  examples/26-sails/config/locales/fr.json</tspan>
-<tspan x="10" y="1850"> 95.  2017-04-19 00:51:49 +0000     1302 bytes  examples/26-sails/config/log.js</tspan>
-<tspan x="10" y="1866"> 96.  2017-04-19 00:51:49 +0000     1451 bytes  examples/26-sails/config/models.js</tspan>
-<tspan x="10" y="1882"> 97.  2017-04-19 00:51:49 +0000     2153 bytes  examples/26-sails/config/policies.js</tspan>
-<tspan x="10" y="1898"> 98.  2017-04-19 00:51:49 +0000     2397 bytes  examples/26-sails/config/routes.js</tspan>
-<tspan x="10" y="1914"> 99.  2017-04-19 00:51:49 +0000     4323 bytes  examples/26-sails/config/session.js</tspan>
-<tspan x="10" y="1930">100.  2017-04-19 00:51:49 +0000     7425 bytes  examples/26-sails/config/sockets.js</tspan>
-<tspan x="10" y="1946">101.  2017-04-19 00:51:49 +0000     5876 bytes  examples/26-sails/config/views.js</tspan>
-<tspan x="10" y="1962">102.  2017-04-19 00:51:49 +0000      956 bytes  examples/26-sails/package.json</tspan>
-<tspan x="10" y="1978">103.  2017-04-19 00:51:49 +0000     3129 bytes  examples/26-sails/tasks/README.md</tspan>
-<tspan x="10" y="1994">104.  2017-04-19 00:51:49 +0000      453 bytes  examples/26-sails/tasks/config/clean.js</tspan>
-<tspan x="10" y="2010">105.  2017-04-19 00:51:49 +0000      781 bytes  examples/26-sails/tasks/config/coffee.js</tspan>
-<tspan x="10" y="2026">106.  2017-04-19 00:51:49 +0000      701 bytes  examples/26-sails/tasks/config/concat.js</tspan>
-<tspan x="10" y="2042">107.  2017-04-19 00:51:49 +0000      812 bytes  examples/26-sails/tasks/config/copy.js</tspan>
-<tspan x="10" y="2058">108.  2017-04-19 00:51:49 +0000      480 bytes  examples/26-sails/tasks/config/cssmin.js</tspan>
-<tspan x="10" y="2074">109.  2017-04-19 00:51:49 +0000     1308 bytes  examples/26-sails/tasks/config/jst.js</tspan>
-<tspan x="10" y="2090">110.  2017-04-19 00:51:49 +0000      661 bytes  examples/26-sails/tasks/config/less.js</tspan>
-<tspan x="10" y="2106">111.  2017-04-19 00:51:49 +0000     6566 bytes  examples/26-sails/tasks/config/sails-linker.js</tspan>
-<tspan x="10" y="2122">112.  2017-04-19 00:51:49 +0000      626 bytes  examples/26-sails/tasks/config/sync.js</tspan>
-<tspan x="10" y="2138">113.  2017-04-19 00:51:49 +0000      464 bytes  examples/26-sails/tasks/config/uglify.js</tspan>
-<tspan x="10" y="2154">114.  2017-04-19 00:51:49 +0000      765 bytes  examples/26-sails/tasks/config/watch.js</tspan>
-<tspan x="10" y="2170">115.  2017-04-19 00:51:49 +0000     2037 bytes  examples/26-sails/tasks/pipeline.js</tspan>
-<tspan x="10" y="2186">116.  2017-04-19 00:51:49 +0000      147 bytes  examples/26-sails/tasks/register/build.js</tspan>
-<tspan x="10" y="2202">117.  2017-04-19 00:51:49 +0000      191 bytes  examples/26-sails/tasks/register/buildProd.js</tspan>
-<tspan x="10" y="2218">118.  2017-04-19 00:51:49 +0000      154 bytes  examples/26-sails/tasks/register/compileAssets.j\</tspan>
+<tspan x="10" y="1562"> 77.  2017-04-19 00:53:39 +0000      276 bytes  examples/26-sails/assets/robots.txt</tspan>
+<tspan x="10" y="1578"> 78.  2017-04-19 00:53:39 +0000      874 bytes  examples/26-sails/assets/styles/importer.less</tspan>
+<tspan x="10" y="1594"> 79.  2017-04-19 00:53:39 +0000     1905 bytes  examples/26-sails/compile.js</tspan>
+<tspan x="10" y="1610"> 80.  2017-04-19 00:53:39 +0000     9197 bytes  examples/26-sails/config/blueprints.js</tspan>
+<tspan x="10" y="1626"> 81.  2017-04-19 00:53:39 +0000      627 bytes  examples/26-sails/config/bootstrap.js</tspan>
+<tspan x="10" y="1642"> 82.  2017-04-19 00:53:39 +0000     4706 bytes  examples/26-sails/config/connections.js</tspan>
+<tspan x="10" y="1658"> 83.  2017-04-19 00:53:39 +0000     3614 bytes  examples/26-sails/config/cors.js</tspan>
+<tspan x="10" y="1674"> 84.  2017-04-19 00:53:39 +0000     2989 bytes  examples/26-sails/config/csrf.js</tspan>
+<tspan x="10" y="1690"> 85.  2017-04-19 00:53:39 +0000      830 bytes  examples/26-sails/config/env/development.js</tspan>
+<tspan x="10" y="1706"> 86.  2017-04-19 00:53:39 +0000     1371 bytes  examples/26-sails/config/env/production.js</tspan>
+<tspan x="10" y="1722"> 87.  2017-04-19 00:53:39 +0000     3302 bytes  examples/26-sails/config/globals.js</tspan>
+<tspan x="10" y="1738"> 88.  2017-04-19 00:53:39 +0000     3883 bytes  examples/26-sails/config/http.js</tspan>
+<tspan x="10" y="1754"> 89.  2017-04-19 00:53:39 +0000     2644 bytes  examples/26-sails/config/i18n.js</tspan>
+<tspan x="10" y="1770"> 90.  2017-04-19 00:53:39 +0000     1181 bytes  examples/26-sails/config/locales/_README.md</tspan>
+<tspan x="10" y="1786"> 91.  2017-04-19 00:53:39 +0000       70 bytes  examples/26-sails/config/locales/de.json</tspan>
+<tspan x="10" y="1802"> 92.  2017-04-19 00:53:39 +0000       67 bytes  examples/26-sails/config/locales/en.json</tspan>
+<tspan x="10" y="1818"> 93.  2017-04-19 00:53:39 +0000       90 bytes  examples/26-sails/config/locales/es.json</tspan>
+<tspan x="10" y="1834"> 94.  2017-04-19 00:53:39 +0000       84 bytes  examples/26-sails/config/locales/fr.json</tspan>
+<tspan x="10" y="1850"> 95.  2017-04-19 00:53:39 +0000     1302 bytes  examples/26-sails/config/log.js</tspan>
+<tspan x="10" y="1866"> 96.  2017-04-19 00:53:39 +0000     1451 bytes  examples/26-sails/config/models.js</tspan>
+<tspan x="10" y="1882"> 97.  2017-04-19 00:53:39 +0000     2153 bytes  examples/26-sails/config/policies.js</tspan>
+<tspan x="10" y="1898"> 98.  2017-04-19 00:53:39 +0000     2397 bytes  examples/26-sails/config/routes.js</tspan>
+<tspan x="10" y="1914"> 99.  2017-04-19 00:53:39 +0000     4323 bytes  examples/26-sails/config/session.js</tspan>
+<tspan x="10" y="1930">100.  2017-04-19 00:53:39 +0000     7425 bytes  examples/26-sails/config/sockets.js</tspan>
+<tspan x="10" y="1946">101.  2017-04-19 00:53:39 +0000     5876 bytes  examples/26-sails/config/views.js</tspan>
+<tspan x="10" y="1962">102.  2017-04-19 00:53:39 +0000      956 bytes  examples/26-sails/package.json</tspan>
+<tspan x="10" y="1978">103.  2017-04-19 00:53:39 +0000     3129 bytes  examples/26-sails/tasks/README.md</tspan>
+<tspan x="10" y="1994">104.  2017-04-19 00:53:39 +0000      453 bytes  examples/26-sails/tasks/config/clean.js</tspan>
+<tspan x="10" y="2010">105.  2017-04-19 00:53:39 +0000      781 bytes  examples/26-sails/tasks/config/coffee.js</tspan>
+<tspan x="10" y="2026">106.  2017-04-19 00:53:39 +0000      701 bytes  examples/26-sails/tasks/config/concat.js</tspan>
+<tspan x="10" y="2042">107.  2017-04-19 00:53:39 +0000      812 bytes  examples/26-sails/tasks/config/copy.js</tspan>
+<tspan x="10" y="2058">108.  2017-04-19 00:53:39 +0000      480 bytes  examples/26-sails/tasks/config/cssmin.js</tspan>
+<tspan x="10" y="2074">109.  2017-04-19 00:53:39 +0000     1308 bytes  examples/26-sails/tasks/config/jst.js</tspan>
+<tspan x="10" y="2090">110.  2017-04-19 00:53:39 +0000      661 bytes  examples/26-sails/tasks/config/less.js</tspan>
+<tspan x="10" y="2106">111.  2017-04-19 00:53:39 +0000     6566 bytes  examples/26-sails/tasks/config/sails-linker.js</tspan>
+<tspan x="10" y="2122">112.  2017-04-19 00:53:39 +0000      626 bytes  examples/26-sails/tasks/config/sync.js</tspan>
+<tspan x="10" y="2138">113.  2017-04-19 00:53:39 +0000      464 bytes  examples/26-sails/tasks/config/uglify.js</tspan>
+<tspan x="10" y="2154">114.  2017-04-19 00:53:39 +0000      765 bytes  examples/26-sails/tasks/config/watch.js</tspan>
+<tspan x="10" y="2170">115.  2017-04-19 00:53:39 +0000     2037 bytes  examples/26-sails/tasks/pipeline.js</tspan>
+<tspan x="10" y="2186">116.  2017-04-19 00:53:39 +0000      147 bytes  examples/26-sails/tasks/register/build.js</tspan>
+<tspan x="10" y="2202">117.  2017-04-19 00:53:39 +0000      191 bytes  examples/26-sails/tasks/register/buildProd.js</tspan>
+<tspan x="10" y="2218">118.  2017-04-19 00:53:39 +0000      154 bytes  examples/26-sails/tasks/register/compileAssets.j\</tspan>
 <tspan x="10" y="2234">s</tspan>
-<tspan x="10" y="2250">119.  2017-04-19 00:51:49 +0000      114 bytes  examples/26-sails/tasks/register/default.js</tspan>
-<tspan x="10" y="2266">120.  2017-04-19 00:51:49 +0000      245 bytes  examples/26-sails/tasks/register/linkAssets.js</tspan>
-<tspan x="10" y="2282">121.  2017-04-19 00:51:49 +0000      282 bytes  examples/26-sails/tasks/register/linkAssetsBuild\</tspan>
+<tspan x="10" y="2250">119.  2017-04-19 00:53:39 +0000      114 bytes  examples/26-sails/tasks/register/default.js</tspan>
+<tspan x="10" y="2266">120.  2017-04-19 00:53:39 +0000      245 bytes  examples/26-sails/tasks/register/linkAssets.js</tspan>
+<tspan x="10" y="2282">121.  2017-04-19 00:53:39 +0000      282 bytes  examples/26-sails/tasks/register/linkAssetsBuild\</tspan>
 <tspan x="10" y="2298">.js</tspan>
-<tspan x="10" y="2314">122.  2017-04-19 00:51:49 +0000      290 bytes  examples/26-sails/tasks/register/linkAssetsBuild\</tspan>
+<tspan x="10" y="2314">122.  2017-04-19 00:53:39 +0000      290 bytes  examples/26-sails/tasks/register/linkAssetsBuild\</tspan>
 <tspan x="10" y="2330">Prod.js</tspan>
-<tspan x="10" y="2346">123.  2017-04-19 00:51:49 +0000      298 bytes  examples/26-sails/tasks/register/prod.js</tspan>
-<tspan x="10" y="2362">124.  2017-04-19 00:51:49 +0000      136 bytes  examples/26-sails/tasks/register/syncAssets.js</tspan>
-<tspan x="10" y="2378">125.  2017-04-19 00:51:49 +0000     3660 bytes  examples/26-sails/views/403.ejs</tspan>
-<tspan x="10" y="2394">126.  2017-04-19 00:51:49 +0000     3769 bytes  examples/26-sails/views/404.ejs</tspan>
-<tspan x="10" y="2410">127.  2017-04-19 00:51:49 +0000    67457 bytes  examples/26-sails/views/500.ejs</tspan>
-<tspan x="10" y="2426">128.  2017-04-19 00:51:49 +0000     7524 bytes  examples/26-sails/views/homepage.ejs</tspan>
-<tspan x="10" y="2442">129.  2017-04-19 00:51:49 +0000     3290 bytes  examples/26-sails/views/layout.ejs</tspan>
-<tspan x="10" y="2458">130.  2017-04-19 00:51:49 +0000     2261 bytes  package.json</tspan>
-<tspan x="10" y="2474">131.  2017-04-19 00:51:49 +0000     3968 bytes  postinstall.js</tspan>
+<tspan x="10" y="2346">123.  2017-04-19 00:53:39 +0000      298 bytes  examples/26-sails/tasks/register/prod.js</tspan>
+<tspan x="10" y="2362">124.  2017-04-19 00:53:39 +0000      136 bytes  examples/26-sails/tasks/register/syncAssets.js</tspan>
+<tspan x="10" y="2378">125.  2017-04-19 00:53:39 +0000     3660 bytes  examples/26-sails/views/403.ejs</tspan>
+<tspan x="10" y="2394">126.  2017-04-19 00:53:39 +0000     3769 bytes  examples/26-sails/views/404.ejs</tspan>
+<tspan x="10" y="2410">127.  2017-04-19 00:53:39 +0000    67457 bytes  examples/26-sails/views/500.ejs</tspan>
+<tspan x="10" y="2426">128.  2017-04-19 00:53:39 +0000     7524 bytes  examples/26-sails/views/homepage.ejs</tspan>
+<tspan x="10" y="2442">129.  2017-04-19 00:53:39 +0000     3290 bytes  examples/26-sails/views/layout.ejs</tspan>
+<tspan x="10" y="2458">130.  2017-04-19 00:53:39 +0000     2261 bytes  package.json</tspan>
+<tspan x="10" y="2474">131.  2017-04-19 00:53:39 +0000     3968 bytes  postinstall.js</tspan>
 </text>
 </svg>
